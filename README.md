@@ -1,28 +1,54 @@
-<h1 align="center">Hi, I'm Manikanta 👋</h1>
-<h3 align="center">AI Evaluation Specialist | ML Engineer | Building and Reviewing Frontier AI Systems</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Manikanta;AI+Evaluation+Specialist;ML+Engineer;Building+and+Reviewing+Frontier+AI" alt="Typing SVG" />
+</p>
+
+<h3 align="center">I evaluate and build ML systems end to end. Currently reviewing frontier AI on OpenClaw Atlas.</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/pathi-manikanta-18668821a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:pmanikanta818@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=PSPMANI&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 </p>
 
 ---
 
-### About Me
+### 🧑‍💻 About Me
 
-I evaluate and build ML systems end to end. Right now I work as a freelance AI Evaluation Specialist, reviewing frontier AI systems on OpenClaw Atlas and Blueshell.
-
-- 🤖 Currently working on **AI Evaluation, RLHF/RLAIF, and Agentic Trajectory Review**
-- 🧪 I design **rubrics, pytest verifiers, and tool-use evaluations**
-- 🔍 Experienced in **red-teaming, LLM evaluation, and prompt engineering**
-- 📊 Built ML pipelines from **Arduino sensors to trained classifiers**
-- 📈 Active in **forex, crypto, and Indian equity trading**
-- 📫 Reach me at **pmanikanta818@gmail.com**
+```yaml
+Name: Pathi Manikanta
+Role: AI Evaluation Specialist & ML Engineer
+Location: Andhra Pradesh, India
+Education: B.E. Computer Science, Anna University (2025)
+Current Work: OpenClaw Atlas & Blueshell (Promoted: Attempter -> Reviewer)
+Interests: AI Evaluation, ML Pipelines, Trading (Forex/Crypto/Equities)
+Fun Fact: I built my first ML model using data from Arduino sensors I wired up myself
+```
 
 ---
 
-### Tech Stack
+### 🔭 Currently Focused On
 
+- 🤖 **AI Evaluation** - RLHF/RLAIF, LLM evaluation, red-teaming
+- 🧪 **Rubric Design** - Binary pass/fail rubrics with pytest verifiers
+- 🔍 **Trajectory Review** - Agentic tool-use call sequencing and argument accuracy
+- 🧠 **Prompt Engineering** - Designing and evaluating prompts for frontier AI
+- 📊 **ML Pipelines** - Sensor data to trained classifiers, end to end
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PSPMANI&theme=flat&no-frame=true&column=7&margin-w=10" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<details>
+<summary><b>AI, ML & Evaluation</b></summary>
+<br>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -33,19 +59,40 @@ I evaluate and build ML systems end to end. Right now I work as a freelance AI E
   <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>Web, Data & Hardware</b></summary>
+<br>
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+</details>
+
+<details>
+<summary><b>Cloud & Tools</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+</details>
 
 ---
 
-### Projects
+### 📂 Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -57,10 +104,10 @@ I evaluate and build ML systems end to end. Right now I work as a freelance AI E
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PSPMANI&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PSPMANI&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PSPMANI&theme=default&hide_border=true" width="48%" />
 </p>
 
@@ -70,6 +117,26 @@ I evaluate and build ML systems end to end. Right now I work as a freelance AI E
 
 ---
 
+### 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PSPMANI&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSPMANI&theme=minimal&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+### 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
+
+---
+
+<p align="center">
+  <b>Open to AI Evaluation, LLM Engineering, and ML roles</b>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/pathi-manikanta-18668821a"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
