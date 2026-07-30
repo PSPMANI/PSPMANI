@@ -10,7 +10,7 @@
 
 ### About Me
 
-I evaluate and build ML systems end to end. Right now I work as a freelance AI Evaluation Specialist, reviewing frontier AI systems on OpenClaw Atlas and Blueshell. I got promoted from attempter to reviewer based on grading accuracy.
+I evaluate and build ML systems end to end. Right now I work as a freelance AI Evaluation Specialist, reviewing frontier AI systems on OpenClaw Atlas and Blueshell.
 
 - 🤖 Currently working on **AI Evaluation, RLHF/RLAIF, and Agentic Trajectory Review**
 - 🧪 I design **rubrics, pytest verifiers, and tool-use evaluations**
