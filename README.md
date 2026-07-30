@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Manikanta;AI+Evaluation+Specialist;ML+Engineer;Building+and+Reviewing+Frontier+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Manikanta;AI+Evaluation+Specialist;ML+Engineer;Full+Stack+Developer;Building+and+Reviewing+Frontier+AI" alt="Typing SVG" />
 </p>
 
-<h3 align="center">I evaluate and build ML systems end to end. Currently reviewing frontier AI on OpenClaw Atlas.</h3>
+<h3 align="center">Driven by a strong interest in AI & Machine Learning. I build, evaluate, and improve ML systems end to end.</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/pathi-manikanta-18668821a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
@@ -16,11 +16,12 @@
 
 ```yaml
 Name: Pathi Manikanta
-Role: AI Evaluation Specialist & ML Engineer
+Role: AI Evaluation Specialist | ML Engineer | Full Stack Developer
 Location: Andhra Pradesh, India
-Education: B.E. Computer Science, Anna University (2025)
+Education: B.E. Computer Science & Engineering (Data Science), Anna University (2025)
 Current Work: OpenClaw Atlas & Blueshell (Promoted: Attempter -> Reviewer)
-Interests: AI Evaluation, ML Pipelines, Trading (Forex/Crypto/Equities)
+Passionate About: AI & Machine Learning - from building models to evaluating frontier AI systems
+Interests: RLHF/RLAIF, LLM Evaluation, ML Pipelines, Full Stack Dev, Trading
 Fun Fact: I built my first ML model using data from Arduino sensors I wired up myself
 ```
 
@@ -33,6 +34,7 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
 - 🔍 **Trajectory Review** - Agentic tool-use call sequencing and argument accuracy
 - 🧠 **Prompt Engineering** - Designing and evaluating prompts for frontier AI
 - 📊 **ML Pipelines** - Sensor data to trained classifiers, end to end
+- 💻 **Full Stack Development** - React, JavaScript, HTML/CSS, Java, SQL, REST APIs
 
 ---
 
@@ -63,10 +65,13 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
 </details>
 
 <details>
-<summary><b>Web, Data & Hardware</b></summary>
+<summary><b>Full Stack, Data & Hardware</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -90,17 +95,42 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
 </p>
 </details>
 
+<details>
+<summary><b>Finance & Taxation</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Indian%20ITR%201--4-FF9933?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/U.S.%20Form%201040-3C3B6E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forex%20Trading-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crypto%20Trading-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Indian%20Equities-138808?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technical%20Analysis-E74C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/P%26L%20Tracking-8E44AD?style=for-the-badge&logoColor=white" />
+</p>
+</details>
+
+---
+
+### 📜 Certifications
+
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| AWS Academy Cloud Foundations | Amazon Web Services | 2022 |
+| Finance Foundations: Income Taxes | LinkedIn | 2025 |
+| Microsoft 365 Productivity Suite (Advanced) | Microsoft | 2022 |
+| Ethical Hacking & Penetration Testing | Scholiverse Educare Pvt. Ltd. | - |
+
 ---
 
 ### 📂 Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Diabetes Foot Pressure Detection](https://github.com/PSPMANI/diabetes-foot-pressure-detection) | End-to-end diabetes detection from foot pressure and gait patterns | Arduino, MATLAB, scikit-learn, Keras |
-| [Spam Email Classifier](https://github.com/PSPMANI/spam-email-classifier) | Email spam/ham classification comparing Naive Bayes, LR, and SVM | Python, NLTK, TF-IDF |
-| [Face Recognition](https://github.com/PSPMANI/face-recognition-opencv) | Real-time face detection and recognition from live video | Python, OpenCV |
-| [IoT Environment Monitor](https://github.com/PSPMANI/iot-environment-monitor) | Real-time temperature, humidity, and pressure monitoring | Arduino, DHT11, BMP180 |
-| [Google Doc Grid Parser](https://github.com/PSPMANI/google-doc-grid-parser) | Parse coordinate triples from a Google Doc and print hidden messages | Python, BeautifulSoup |
+| Project | Description | Where | Tech |
+|---------|-------------|-------|------|
+| [Diabetes Foot Pressure Detection](https://github.com/PSPMANI/diabetes-foot-pressure-detection) | End-to-end diabetes detection from foot pressure and gait patterns | Final-Year B.E. Project, Anna University (2025) | Arduino, MATLAB, scikit-learn, Keras |
+| [Spam Email Classifier](https://github.com/PSPMANI/spam-email-classifier) | Email spam/ham classification comparing Naive Bayes, LR, and SVM | College Project (2024) | Python, NLTK, TF-IDF |
+| [Face Recognition](https://github.com/PSPMANI/face-recognition-opencv) | Real-time face detection and recognition from live video | College Project (2024) | Python, OpenCV |
+| [IoT Environment Monitor](https://github.com/PSPMANI/iot-environment-monitor) | Real-time temperature, humidity, and pressure monitoring | Vaayusastra Internship (2023) | Arduino, DHT11, BMP180 |
+| [Google Doc Grid Parser](https://github.com/PSPMANI/google-doc-grid-parser) | Parse coordinate triples from a Google Doc and print hidden messages | Personal Project | Python, BeautifulSoup |
 
 ---
 
@@ -134,7 +164,7 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
 ---
 
 <p align="center">
-  <b>Open to AI Evaluation, LLM Engineering, and ML roles</b>
+  <b>Open to AI Evaluation, LLM Engineering, Full Stack, and ML roles</b>
 </p>
 
 <p align="center">
