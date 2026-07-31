@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Manikanta;AI+Evaluation+Specialist;ML+Engineer;Full+Stack+Developer;Building+and+Reviewing+Frontier+AI" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Driven by a strong interest in AI & Machine Learning. I build, evaluate, and improve ML systems end to end.</h3>
+<h3 align="center">I build and evaluate ML systems from raw data to trained models. Currently reviewing frontier AI at Scale AI (Outlier).</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/pathi-manikanta-18668821a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
@@ -19,7 +19,7 @@ Name: Pathi Manikanta
 Role: AI Evaluation Specialist | ML Engineer | Full Stack Developer
 Location: Andhra Pradesh, India
 Education: B.E. Computer Science & Engineering (Data Science), Anna University (2025)
-Current Work: OpenClaw Atlas & Blueshell (Promoted: Attempter -> Reviewer)
+Current Work: Scale AI (Outlier) - OpenClaw Atlas & Blueshell (Promoted: Attempter -> Reviewer)
 Passionate About: AI & Machine Learning - from building models to evaluating frontier AI systems
 Interests: RLHF/RLAIF, LLM Evaluation, ML Pipelines, Full Stack Dev, Trading
 Fun Fact: I built my first ML model using data from Arduino sensors I wired up myself
@@ -29,11 +29,11 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
 
 ### 🔭 Currently Focused On
 
-- 🤖 **AI Evaluation** - RLHF/RLAIF, LLM evaluation, red-teaming
-- 🧪 **Rubric Design** - Binary pass/fail rubrics with pytest verifiers
-- 🔍 **Trajectory Review** - Agentic tool-use call sequencing and argument accuracy
-- 🧠 **Prompt Engineering** - Designing and evaluating prompts for frontier AI
-- 📊 **ML Pipelines** - Sensor data to trained classifiers, end to end
+- 🤖 **AI Evaluation** - RLHF/RLAIF, LLM evaluation, red-teaming at Scale AI (Outlier)
+- 🧪 **Rubric Design** - Authored 50+ binary pass/fail rubrics with pytest verifiers
+- 🔍 **Trajectory Review** - Audited 100+ agentic tool-use trajectories for frontier AI
+- 🧠 **Prompt Engineering** - Designing and evaluating prompts for frontier AI systems
+- 📊 **ML Pipelines** - Built classifiers hitting 92.5% accuracy with proper data leakage detection
 - 💻 **Full Stack Development** - React, JavaScript, HTML/CSS, Java, SQL, REST APIs
 
 ---
@@ -49,7 +49,7 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
 ### 🛠️ Tech Stack
 
 <details>
-<summary><b>AI, ML & Evaluation</b></summary>
+<summary><b>ML & AI Evaluation</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -61,6 +61,7 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
   <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 </details>
 
@@ -92,6 +93,7 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
   <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 </details>
 
@@ -111,6 +113,18 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
 
 ---
 
+### 📂 Projects
+
+| Project | Description | Where | Tech |
+|---------|-------------|-------|------|
+| [Diabetes Foot Pressure Detection](https://github.com/PSPMANI/diabetes-foot-pressure-detection) | Engineered full ML pipeline from Arduino sensors to classifiers, achieving 92.5% accuracy. Identified and resolved data leakage issue. | Final-Year B.E. Project, Anna University (2025) | Arduino, MATLAB, scikit-learn, Keras |
+| [Spam Email Classifier](https://github.com/PSPMANI/spam-email-classifier) | Developed NLP pipeline with NLTK and TF-IDF, achieving 97.8% accuracy with Linear SVM on 1000+ emails. | College Project (2024) | Python, NLTK, TF-IDF, SVM |
+| [Face Recognition](https://github.com/PSPMANI/face-recognition-opencv) | Implemented real-time face detection and recognition at 15+ FPS with 70%+ confidence threshold. | College Project (2024) | Python, OpenCV, LBPH |
+| [IoT Environment Monitor](https://github.com/PSPMANI/iot-environment-monitor) | Deployed real-time sensor pipeline streaming data every 2 seconds to remote dashboard. | Vaayusastra Internship (2023) | Arduino, DHT11, BMP180 |
+| [Google Doc Grid Parser](https://github.com/PSPMANI/google-doc-grid-parser) | Parse coordinate triples from a Google Doc and print hidden block-letter messages. | Personal Project | Python, BeautifulSoup |
+
+---
+
 ### 📜 Certifications
 
 | Certification | Issuer | Year |
@@ -122,15 +136,13 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
 
 ---
 
-### 📂 Projects
+### 🎓 Education
 
-| Project | Description | Where | Tech |
-|---------|-------------|-------|------|
-| [Diabetes Foot Pressure Detection](https://github.com/PSPMANI/diabetes-foot-pressure-detection) | End-to-end diabetes detection from foot pressure and gait patterns | Final-Year B.E. Project, Anna University (2025) | Arduino, MATLAB, scikit-learn, Keras |
-| [Spam Email Classifier](https://github.com/PSPMANI/spam-email-classifier) | Email spam/ham classification comparing Naive Bayes, LR, and SVM | College Project (2024) | Python, NLTK, TF-IDF |
-| [Face Recognition](https://github.com/PSPMANI/face-recognition-opencv) | Real-time face detection and recognition from live video | College Project (2024) | Python, OpenCV |
-| [IoT Environment Monitor](https://github.com/PSPMANI/iot-environment-monitor) | Real-time temperature, humidity, and pressure monitoring | Vaayusastra Internship (2023) | Arduino, DHT11, BMP180 |
-| [Google Doc Grid Parser](https://github.com/PSPMANI/google-doc-grid-parser) | Parse coordinate triples from a Google Doc and print hidden messages | Personal Project | Python, BeautifulSoup |
+| Degree | Institution | Year | Score |
+|--------|------------|------|-------|
+| B.E., Computer Science & Engineering (Data Science) | Jansons Institute of Technology (Anna University), Coimbatore | 2021-2025 | CGPA 8.0 |
+| Higher Secondary (Class XII), MPC | Sri Sai Junior College, Kanigiri, Andhra Pradesh | 2021 | - |
+| Secondary (Class X) | Nagarjuna Model School, Kadapa, Andhra Pradesh | 2019 | CGPA 9.8 |
 
 ---
 
