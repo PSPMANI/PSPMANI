@@ -20,7 +20,7 @@ Name: Pathi Manikanta
 Role: AI Evaluation Specialist | ML Engineer | Full Stack Developer
 Location: Andhra Pradesh, India
 Education: B.E. Computer Science & Engineering (Data Science), Anna University (2025)
-Current Work: Scale AI (Outlier) - OpenClaw Atlas & Blueshell (Promoted: Attempter -> Reviewer)
+Current Work: Scale AI (Outlier) - OpenClaw Atlas, Blue Shell & Lobster Safety (Promoted: Attempter -> Reviewer) | Handshake AI - Project Seal
 Passionate About: AI & Machine Learning - from building models to evaluating frontier AI systems
 Interests: RLHF/RLAIF, LLM Evaluation, ML Pipelines, Full Stack Dev, Trading
 Fun Fact: I built my first ML model using data from Arduino sensors I wired up myself
@@ -116,13 +116,15 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
 
 ### 🤖 AI Evaluation & Workflow Systems
 
-Process runbooks and QC tooling I authored for reviewing frontier AI at **Scale AI (Outlier)**. The **View Workflow** links open a public walkthrough of the *process only* — the underlying task files stay private.
+Process runbooks and QC tooling I authored for reviewing frontier AI at **Scale AI (Outlier)** and **Handshake AI**. The **View Workflow** links open a public walkthrough of the *process only* — the underlying task files stay private.
 
-| Project | Visibility | Description | Workflow |
-|---------|-----------|-------------|----------|
-| **OpenClaw Atlas** | 🔒 Private | Golden/silver "memory-trap" pipeline for authoring & QC-ing agentic RL trajectories (story → discrepancy → prompt → failure grade → silver fix → pytest verifiers → QC). | [🔎 View Workflow](https://pspmani.github.io/workflows.html#openclaw) |
-| **Project Seal — Authoring** | 🔒 Private | Runbook for writing hard, single-answer, multi-hop search questions that defeat a strong AI with web search yet stay solvable by a careful researcher. Eight quality rules, 18 techniques. | [🔎 View Workflow](https://pspmani.github.io/workflows.html#project-seal) |
-| **Project Seal — QC Checker** | 🌐 Public | Automated QC checker that runs a task submission against the rejection rules before it ships. | [🔗 Live](https://pspmani.github.io/project-seal-qc/) · [Code](https://github.com/PSPMANI/project-seal-qc) |
+| Project | Company | Visibility | Description | Workflow |
+|---------|---------|-----------|-------------|----------|
+| **OpenClaw Atlas** | Scale AI (Outlier) | 🔒 Private | Golden/silver "memory-trap" pipeline for authoring & QC-ing agentic RL trajectories (story → discrepancy → prompt → failure grade → silver fix → pytest verifiers → QC). | [🔎 View Workflow](https://pspmani.github.io/workflows.html#openclaw) |
+| **Blue Shell** | Scale AI (Outlier) | 🔒 Private | OpenClaw capabilities RL toolkit: two-turn golden/silver pipeline where Turn 1 fails a rubric trap and a Turn-2 nudge passes it 100%. Six tools, story → QC. | [🔎 View Workflow](https://pspmani.github.io/workflows.html#blue-shell) |
+| **Lobster Safety** | Scale AI (Outlier) | 🔒 Private | OpenClaw Safety RL: nine sequential workers with a hard PASS/STOP gate between each, grading trajectories against the SSOT taxonomy (F1–F10 failures, S0–S3 severity). | [🔎 View Workflow](https://pspmani.github.io/workflows.html#lobster-safety) |
+| **Project Seal — Authoring** | Handshake AI | 🔒 Private | Runbook for writing hard, single-answer, multi-hop search questions that defeat a strong AI with web search yet stay solvable by a careful researcher. Eight quality rules, 18 techniques. | [🔎 View Workflow](https://pspmani.github.io/workflows.html#project-seal) |
+| **Project Seal — QC Checker** | Handshake AI | 🌐 Public | Automated QC checker that runs a task submission against the rejection rules before it ships. | [🔗 Live](https://pspmani.github.io/project-seal-qc/) · [Code](https://github.com/PSPMANI/project-seal-qc) |
 
 ---
 
