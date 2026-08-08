@@ -5,6 +5,7 @@
 <h3 align="center">I build and evaluate ML systems from raw data to trained models. Currently reviewing frontier AI at Scale AI (Outlier).</h3>
 
 <p align="center">
+  <a href="https://pspmani.github.io"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-pspmani.github.io-6366f1?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/pathi-manikanta-18668821a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:pmanikanta818@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=PSPMANI&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
@@ -110,6 +111,18 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
   <img src="https://img.shields.io/badge/P%26L%20Tracking-8E44AD?style=for-the-badge&logoColor=white" />
 </p>
 </details>
+
+---
+
+### 🤖 AI Evaluation & Workflow Systems
+
+Process runbooks and QC tooling I authored for reviewing frontier AI at **Scale AI (Outlier)**. The **View Workflow** links open a public walkthrough of the *process only* — the underlying task files stay private.
+
+| Project | Visibility | Description | Workflow |
+|---------|-----------|-------------|----------|
+| **OpenClaw Atlas** | 🔒 Private | Golden/silver "memory-trap" pipeline for authoring & QC-ing agentic RL trajectories (story → discrepancy → prompt → failure grade → silver fix → pytest verifiers → QC). | [🔎 View Workflow](https://pspmani.github.io/workflows.html#openclaw) |
+| **Project Seal — Authoring** | 🔒 Private | Runbook for writing hard, single-answer, multi-hop search questions that defeat a strong AI with web search yet stay solvable by a careful researcher. Eight quality rules, 18 techniques. | [🔎 View Workflow](https://pspmani.github.io/workflows.html#project-seal) |
+| **Project Seal — QC Checker** | 🌐 Public | Automated QC checker that runs a task submission against the rejection rules before it ships. | [🔗 Live](https://pspmani.github.io/project-seal-qc/) · [Code](https://github.com/PSPMANI/project-seal-qc) |
 
 ---
 
