@@ -23,6 +23,9 @@ Education: B.E. Computer Science & Engineering (Data Science), Anna University (
 Current Work: Reviewing & building frontier AI evaluation systems - RLHF/RLAIF, agentic trajectory review, rubric & unit-test design (Promoted: Attempter -> Reviewer)
 Passionate About: AI & Machine Learning - from building models to evaluating frontier AI systems
 Interests: RLHF/RLAIF, LLM Evaluation, ML Pipelines, Full Stack Dev, Trading
+Experience: AI Evaluation @ Scale AI (Outlier) | Ex-MCX Advisor @ Zebu Share and Wealth Management
+Trading: 4 years across crypto, Indian stocks & investments
+Languages: Telugu, English, Hindi, Tamil
 Fun Fact: I built my first ML model using data from Arduino sensors I wired up myself
 ```
 
@@ -36,6 +39,17 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
 - 🧠 **Prompt Engineering** - Designing and evaluating prompts for frontier AI systems
 - 📊 **ML Pipelines** - Built classifiers hitting 92.5% accuracy with proper data leakage detection
 - 💻 **Full Stack Development** - React, JavaScript, HTML/CSS, Java, SQL, REST APIs
+
+---
+
+### 💼 Experience
+
+| Role | Company | Focus |
+|------|---------|-------|
+| AI Evaluation Specialist (Reviewer) | **Scale AI** (Outlier) | RLHF/RLAIF, agentic trajectory review, rubric & unit-test design |
+| MCX Advisor | **Zebu Share and Wealth Management** | Commodity (MCX) market advisory, technical analysis & client P&L |
+
+> 📈 **4+ years of hands-on trading** across crypto, Indian equities, and long-term investments.
 
 ---
 
@@ -102,6 +116,7 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
 <summary><b>Finance & Taxation</b></summary>
 <br>
 <p>
+  <img src="https://img.shields.io/badge/4%2B%20Years%20Trading-16A085?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Indian%20ITR%201--4-FF9933?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/U.S.%20Form%201040-3C3B6E?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Forex%20Trading-2E86C1?style=for-the-badge&logoColor=white" />
@@ -158,6 +173,17 @@ Process runbooks and QC tooling I authored for reviewing and building frontier A
 | B.E., Computer Science & Engineering (Data Science) | Jansons Institute of Technology (Anna University), Coimbatore | 2021-2025 | CGPA 8.0 |
 | Higher Secondary (Class XII), MPC | Sri Sai Junior College, Kanigiri, Andhra Pradesh | 2021 | - |
 | Secondary (Class X) | Nagarjuna Model School, Kadapa, Andhra Pradesh | 2019 | CGPA 9.8 |
+
+---
+
+### 🗣️ Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Telugu-16A085?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hindi-E67E22?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tamil-8E44AD?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
