@@ -131,26 +131,26 @@ Fun Fact: I built my first ML model using data from Arduino sensors I wired up m
 
 ### 🤖 AI Evaluation & Workflow Systems
 
-Process runbooks and QC tooling I authored for reviewing and building frontier AI. The **View Workflow** links open a public walkthrough of the *process only* — the underlying task files stay private.
+Process runbooks and QC tooling I authored for reviewing and building frontier AI. The **View Workflow** links open a public walkthrough of the *process only* - the underlying task files stay private.
 
 | Project | Visibility | Description | Workflow |
 |---------|-----------|-------------|----------|
-| **OpenClaw Atlas** | 🔒 Private | Golden/silver "memory-trap" pipeline for authoring & QC-ing agentic RL trajectories (story → discrepancy → prompt → failure grade → silver fix → pytest verifiers → QC). | [🔎 View Workflow](https://pspmani.github.io/workflows.html#openclaw) |
-| **Blue Shell** | 🔒 Private | OpenClaw capabilities RL toolkit: two-turn golden/silver pipeline where Turn 1 fails a rubric trap and a Turn-2 nudge passes it 100%. Six tools, story → QC. | [🔎 View Workflow](https://pspmani.github.io/workflows.html#blue-shell) |
-| **Lobster Safety** | 🔒 Private | OpenClaw Safety RL: nine sequential workers with a hard PASS/STOP gate between each, grading trajectories against the SSOT taxonomy (F1–F10 failures, S0–S3 severity). | [🔎 View Workflow](https://pspmani.github.io/workflows.html#lobster-safety) |
-| **Project Seal — Authoring** | 🔒 Private | Runbook for writing hard, single-answer, multi-hop search questions that defeat a strong AI with web search yet stay solvable by a careful researcher. Eight quality rules, 18 techniques. | [🔎 View Workflow](https://pspmani.github.io/workflows.html#project-seal) |
-| **Project Seal — QC Checker** | 🌐 Public | Automated QC checker that runs a task submission against the rejection rules before it ships. | [🔗 Live](https://pspmani.github.io/project-seal-qc/) · [Code](https://github.com/PSPMANI/project-seal-qc) |
+| **OpenClaw Atlas** | 🔒 Private | Golden/silver "memory-trap" pipeline for authoring & QC-ing agentic RL trajectories (story -> discrepancy -> prompt -> failure grade -> silver fix -> pytest verifiers -> QC). | [🔎 View Workflow](https://pspmani.github.io/workflows.html#openclaw) |
+| **Blue Shell** | 🔒 Private | OpenClaw capabilities RL toolkit: two-turn golden/silver pipeline where Turn 1 fails a rubric trap and a Turn-2 nudge passes it 100%. Six tools, story -> QC. | [🔎 View Workflow](https://pspmani.github.io/workflows.html#blue-shell) |
+| **Lobster Safety** | 🔒 Private | OpenClaw Safety RL: nine sequential workers with a hard PASS/STOP gate between each, grading trajectories against the SSOT taxonomy (F1-F10 failures, S0-S3 severity). | [🔎 View Workflow](https://pspmani.github.io/workflows.html#lobster-safety) |
+| **Project Seal - Authoring** | 🔒 Private | Runbook for writing hard, single-answer, multi-hop search questions that defeat a strong AI with web search yet stay solvable by a careful researcher. Eight quality rules, 18 techniques. | [🔎 View Workflow](https://pspmani.github.io/workflows.html#project-seal) |
+| **Project Seal - QC Checker** | 🌐 Public | Automated QC checker that runs a task submission against the rejection rules before it ships. | [🔗 Live](https://pspmani.github.io/project-seal-qc/) - [Code](https://github.com/PSPMANI/project-seal-qc) |
 
 ---
 
 ### 📂 Projects
 
-> ⭐ **Featured · [Customer Churn Predictor](https://github.com/PSPMANI/customer-churn-predictor)** — **[🚀 Try the Live App](https://customer-churn-predictor-xndnwqzrpb9fduv8rtee3y.streamlit.app/)**
-> End-to-end ML app that predicts telecom customer churn *and* the action to retain them. Gradient Boosting pipeline (**ROC-AUC 0.843**) trained on 7,000+ real customers, deployed as an interactive Streamlit web app with live risk scoring. Full lifecycle: data cleaning → scikit-learn pipeline → cross-validation → deployment.
+> ⭐ **Featured - [Customer Churn Predictor](https://github.com/PSPMANI/customer-churn-predictor)** - **[🚀 Try the Live App](https://customer-churn-predictor-xndnwqzrpb9fduv8rtee3y.streamlit.app/)**
+> End-to-end ML app that predicts telecom customer churn *and* the action to retain them. Gradient Boosting pipeline (**ROC-AUC 0.843**) trained on 7,000+ real customers, deployed as an interactive Streamlit web app with live risk scoring. Full lifecycle: data cleaning -> scikit-learn pipeline -> cross-validation -> deployment.
 
 | Project | Description | Where | Tech |
 |---------|-------------|-------|------|
-| [**Customer Churn Predictor**](https://github.com/PSPMANI/customer-churn-predictor) · [🚀 Live](https://customer-churn-predictor-xndnwqzrpb9fduv8rtee3y.streamlit.app/) | End-to-end ML app predicting customer churn (**ROC-AUC 0.843**) on 7,000+ customers, deployed as an interactive Streamlit app with business-ready risk scoring. | Personal Project (2026) | Python, scikit-learn, Streamlit |
+| [**Customer Churn Predictor**](https://github.com/PSPMANI/customer-churn-predictor) - [🚀 Live](https://customer-churn-predictor-xndnwqzrpb9fduv8rtee3y.streamlit.app/) | End-to-end ML app predicting customer churn (**ROC-AUC 0.843**) on 7,000+ customers, deployed as an interactive Streamlit app with business-ready risk scoring. | Personal Project (2026) | Python, scikit-learn, Streamlit |
 | [Diabetes Foot Pressure Detection](https://github.com/PSPMANI/diabetes-foot-pressure-detection) | Engineered full ML pipeline from Arduino sensors to classifiers, achieving 92.5% accuracy. Identified and resolved data leakage issue. | Final-Year B.E. Project, Anna University (2025) | Arduino, MATLAB, scikit-learn, Keras |
 | [Spam Email Classifier](https://github.com/PSPMANI/spam-email-classifier) | Developed NLP pipeline with NLTK and TF-IDF, achieving 97.8% accuracy with Linear SVM on 1000+ emails. | College Project (2024) | Python, NLTK, TF-IDF, SVM |
 | [Face Recognition](https://github.com/PSPMANI/face-recognition-opencv) | Implemented real-time face detection and recognition at 15+ FPS with 70%+ confidence threshold. | College Project (2024) | Python, OpenCV, LBPH |
