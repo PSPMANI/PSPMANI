@@ -63,6 +63,8 @@ Public process walkthroughs of the evaluation work (nothing confidential): [pspm
 
 ### More Work
 
+- [HandPilot](https://github.com/PSPMANI/handpilot) - webcam gesture control for Windows: MediaPipe and OpenCV hand tracking for pointer, pinch clicks, scrolling, and an on-screen keyboard, with Windows CI tests.
+- [Chatbox](https://github.com/PSPMANI/chatbox) - streaming chat app: FastAPI and Server-Sent Events backend, React and TypeScript frontend, pluggable model backend that runs offline with no API key.
 - [Customer Churn Predictor](https://github.com/PSPMANI/customer-churn-predictor) - Gradient Boosting on 7,043 records, 0.843 test ROC-AUC, SHAP explanations, deployed on Streamlit.
 - [Diabetes Foot Pressure Classification](https://github.com/PSPMANI/diabetes-foot-pressure-detection) - caught session leakage with GroupKFold, correcting 99% to a realistic 92.5%.
 - [Spam Email Classifier](https://github.com/PSPMANI/spam-email-classifier) - NLTK and TF-IDF pipeline, 97.8% accuracy with a Linear SVM.
