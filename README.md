@@ -16,12 +16,6 @@
   <a href="mailto:pmanikanta818@gmail.com"><img src="https://img.shields.io/badge/Email-pmanikanta818-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rubrics_authored-50%2B-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Trajectories_audited-100%2B-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Projects_shipped-10%2B-111827?style=flat-square" />
-</p>
-
 ---
 
 ### About
