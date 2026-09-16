@@ -97,11 +97,15 @@ Public process walkthroughs of the evaluation work (nothing confidential): [pspm
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
-**Evaluation:** LLM evaluation, RLHF / RLAIF, red teaming, rubric design, agentic trajectory review, hallucination detection.
+**Evaluation:** LLM evaluation, RLHF / RLAIF, red teaming, prompt engineering, rubric design, agentic trajectory review, hallucination detection, multimodal assessment.
 <br>**Also:** US Enrolled Agent (EA) credential in progress; Indian income-tax returns (ITR-1 to ITR-4).
 
 ---
