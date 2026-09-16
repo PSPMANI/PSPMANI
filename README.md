@@ -52,11 +52,35 @@ Public process walkthroughs of the evaluation work (nothing confidential): [pspm
 
 ---
 
+### Achievements
+
+- Promoted from Attempter to Reviewer within 3 months at Scale AI (Outlier), for evaluation accuracy and consistent task quality.
+- Shipped three live, public AI-evaluation tools: TrajLens, JudgeLab, and EvalGate.
+- EvalGate CI/CD pipeline has run green for months, with automated weekly retraining and quality-gated deployments.
+- Caught a session-level data-leakage bug and corrected an inflated 99% accuracy to a truthful 92.5% using GroupKFold.
+
+---
+
 ### More Work
 
 - [Customer Churn Predictor](https://github.com/PSPMANI/customer-churn-predictor) - Gradient Boosting on 7,043 records, 0.843 test ROC-AUC, SHAP explanations, deployed on Streamlit.
 - [Diabetes Foot Pressure Classification](https://github.com/PSPMANI/diabetes-foot-pressure-detection) - caught session leakage with GroupKFold, correcting 99% to a realistic 92.5%.
 - [Spam Email Classifier](https://github.com/PSPMANI/spam-email-classifier) - NLTK and TF-IDF pipeline, 97.8% accuracy with a Linear SVM.
+
+---
+
+### Certifications
+
+- Claude Code 101 - Anthropic (2026)
+- AI Fluency for Builders - Anthropic (2026)
+- Introduction to Agents - Mercor (2026)
+- Prompt Engineering (OutlierEDU) - Outlier AI (2026)
+- Problem Solving (Intermediate) - HackerRank
+- Frontend Developer (React) - HackerRank
+- AWS Academy Cloud Foundations - Amazon Web Services (2022)
+- Microsoft 365 Productivity Advanced - Microsoft (2022)
+- Ethical Hacking and Penetration Testing - Scholiverse
+- Enrolled Agent (EA) credential - in progress
 
 ---
 
