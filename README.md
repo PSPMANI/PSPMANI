@@ -101,8 +101,11 @@ Public process walkthroughs of the evaluation work (nothing confidential): [pspm
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4c9a2a?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 **Evaluation:** LLM evaluation, RLHF / RLAIF, red teaming, prompt engineering, rubric design, agentic trajectory review, hallucination detection, multimodal assessment.
