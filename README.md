@@ -41,14 +41,14 @@ Three public tools that show one idea - evaluation as a hard gate, not a vibe - 
 
 ---
 
-### Frontier AI Evaluation (professional)
+### Experience
 
-Confidential client engagements for frontier-model providers, shown as process only (no task content):
+- **AI Trainer and Reviewer** - Scale AI (Outlier), 2026. Promoted from Attempter to Reviewer. Golden/silver agentic RL trajectory pipelines, rubric and pytest-verifier design, and safety-taxonomy grading (OpenClaw Atlas, Blue Shell, Lobster Safety). Confidential work, shown as process only.
+- **Software and ML Engineer** - Tensium, 2026 to present (remote). CPU-based long-horizon ML tasks with multistep reasoning and code generation; develop, debug, and refactor Python pipelines for maintainability and performance.
+- **AI Trainer, LLM Evaluation** - Handshake AI, 2026. Adversarial multi-hop question authoring plus an automated QC checker (Project Seal).
+- **MCX Advisor** - Zebu Share and Wealth Management, 2025 to 2026. 4 years of trading experience across crypto and Indian equities; supported client trading operations and profit-and-loss updates.
 
-- **Scale AI (Outlier)** - OpenClaw Atlas, Blue Shell, Lobster Safety: golden/silver agentic RL trajectory pipelines, rubric and pytest-verifier design, and safety-taxonomy grading with hard PASS/STOP gates.
-- **Handshake AI** - Project Seal: adversarial multi-hop question authoring plus an automated QC checker.
-
-Public process walkthroughs (nothing confidential): [pspmani.github.io/workflows.html](https://pspmani.github.io/workflows.html)
+Public process walkthroughs of the evaluation work (nothing confidential): [pspmani.github.io/workflows.html](https://pspmani.github.io/workflows.html)
 
 ---
 
