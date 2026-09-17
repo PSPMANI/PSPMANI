@@ -58,6 +58,7 @@ Public process walkthroughs of the evaluation work (nothing confidential): [pspm
 - Shipped three live, public AI-evaluation tools: TrajLens, JudgeLab, and EvalGate.
 - EvalGate CI/CD pipeline has run green for months, with automated weekly retraining and quality-gated deployments.
 - Caught a session-level data-leakage bug and corrected an inflated 99% accuracy to a truthful 92.5% using GroupKFold.
+- Vice President, Iterators Club - Jansons Institute of Technology (student leadership during B.E.).
 
 ---
 
